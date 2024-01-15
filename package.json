@@ -1,0 +1,7 @@
+{
+  "author": "Gabriel Cabral <gabriel.alonso.dev@icloud.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "version-updater",
+  "version": "1.0.3"
+}
